@@ -2,6 +2,8 @@
 
 A small Next.js app for researching public AI-friendly cash opportunities through source receipts and explicit review decisions. Built on 2026-09-30 for the DEV × Sanity Path Two challenge. It contains public-source examples only.
 
+This directory is the runnable source inside the public showcase repository. Run the commands below from this directory. The active GitHub Pages workflow and prebuilt deployment ZIP are at the repository root; this directory's `.github/workflows` copy is source documentation and does not deploy on its own.
+
 ## Run
 
 Requires Node 20.9+ and pnpm. This machine uses bundled Node 24.19.0 and pnpm 11.25.0.

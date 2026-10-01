@@ -4,6 +4,8 @@ A small Next.js app for researching public AI-friendly cash opportunities throug
 
 The [inspectable application source](source/) is expanded in this repository. The original [source ZIP](proof-desk-source.zip) is retained for one-file download. The [Studio review](evidence/cloud-review-state-version.png), [draft-to-review event](evidence/cloud-review-studio.png) and [matching public history](evidence/public-review-history.png) are captured as separate evidence; these show a review transition, not an award or payment.
 
+Run the development and test commands from `source/`. The deployment workflow intentionally reads the prebuilt ZIP at this repository's root, so changes to documentation or source inspection files alone do not redeploy the public demo.
+
 ## Run
 
 Requires Node 20.9+ and pnpm. This machine uses bundled Node 24.19.0 and pnpm 11.25.0.
