@@ -2,14 +2,11 @@
 
 A small Next.js app for researching public AI-friendly cash opportunities through source receipts and explicit review decisions. Built on 2026-09-30 for the DEV × Sanity Path Two challenge. It contains public-source examples only.
 
-The [inspectable application source](source/) is expanded in this repository. The original [source ZIP](proof-desk-source.zip) is retained for one-file download. The [Studio review](evidence/cloud-review-state-version.png), [draft-to-review event](evidence/cloud-review-studio.png) and [matching public history](evidence/public-review-history.png) are captured as separate evidence; these show a review transition, not an award or payment.
-
 ## Run
 
 Requires Node 20.9+ and pnpm. This machine uses bundled Node 24.19.0 and pnpm 11.25.0.
 
 ```sh
-cd source
 pnpm install --frozen-lockfile
 pnpm run dev
 ```

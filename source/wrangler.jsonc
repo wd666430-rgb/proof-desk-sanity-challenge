@@ -1,0 +1,7 @@
+{
+  "name": "proof-desk-demo",
+  "main": "worker.mjs",
+  "compatibility_date": "2026-09-30",
+  "workers_dev": true,
+  "assets": { "directory": ".public-build/worker/out", "binding": "ASSETS", "run_worker_first": ["/api/*"] }
+}

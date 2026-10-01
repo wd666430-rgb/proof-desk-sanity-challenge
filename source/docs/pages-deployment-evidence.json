@@ -1,0 +1,17 @@
+{
+  "checkedAt": "2026-09-30T16:21:15.558311+00:00",
+  "workflowRunUrl": "https://github.com/wd666430-rgb/proof-desk-sanity-challenge/actions/runs/36742897411",
+  "workflowName": "Deploy Proof Desk Next.js export",
+  "status": "completed",
+  "conclusion": "success",
+  "headCommit": "fe1970ac3947dd36482a2944e2d3f02db83132d0",
+  "publicPageUrl": "https://wd666430-rgb.github.io/proof-desk-sanity-challenge/",
+  "pageHttpStatus": 200,
+  "pageHtmlBytes": 8680,
+  "pageHtmlSha256": "e88dc06a8bc80689d0d2f1def7b9014498f9f30dd5d5902296b7bf100e508df9",
+  "nextStaticReferences": 8,
+  "checkedAssetUrl": "https://wd666430-rgb.github.io/proof-desk-sanity-challenge/_next/static/chunks/2mf33m9u7vba9.css",
+  "assetHttpStatus": 200,
+  "guestBrowserVerification": "Authorized session checked full Next scripts, live Sanity Content Lake, 5 researched, 2 open, and review state.",
+  "revenueClaim": false
+}

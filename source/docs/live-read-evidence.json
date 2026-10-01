@@ -1,0 +1,43 @@
+{
+  "checkedAt": "2026-09-30T15:34:23.468812+00:00",
+  "config": {
+    "mode": "sanity",
+    "writable": false,
+    "label": "Sanity Content Lake",
+    "projectId": "ofdsgt18",
+    "dataset": "production"
+  },
+  "count": 5,
+  "records": [
+    {
+      "id": "opportunity-slapjam-ai",
+      "revision": "l00KeGUqcjeTYP122MQxZ8",
+      "state": "blocked",
+      "version": 0
+    },
+    {
+      "id": "opportunity-sanity-path-two",
+      "revision": "l00KeGUqcjeTYP122MQxZ8",
+      "state": "draft",
+      "version": 0
+    },
+    {
+      "id": "opportunity-kaggle-benchmark",
+      "revision": "l00KeGUqcjeTYP122MQxZ8",
+      "state": "draft",
+      "version": 0
+    },
+    {
+      "id": "opportunity-banana-hacks",
+      "revision": "l00KeGUqcjeTYP122MQxZ8",
+      "state": "draft",
+      "version": 0
+    },
+    {
+      "id": "opportunity-patch-notes",
+      "revision": "l00KeGUqcjeTYP122MQxZ8",
+      "state": "draft",
+      "version": 0
+    }
+  ]
+}
