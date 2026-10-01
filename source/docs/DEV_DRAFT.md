@@ -4,7 +4,7 @@ published: false
 tags: devchallenge, sanitychallenge, sanity, ai
 ---
 
-*This is an unsubmitted draft for the [Sanity Challenge, Path Two: Vibe-Code Something Strange](https://dev.to/challenges/sanity-2026-09-16).*
+*Historical local draft. The [final Path Two submission](https://dev.to/di_wang_3516db206ab336792/proof-desk-receipts-before-rewards-3m7n) was published on DEV on October 1, 2026.*
 
 ## What I Built
 

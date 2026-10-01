@@ -1,6 +1,6 @@
 # Proof Desk
 
-A small Next.js app for researching public AI-friendly cash opportunities through source receipts and explicit review decisions. Built on 2026-09-30 for the DEV × Sanity Path Two challenge. It contains public-source examples only.
+A small Next.js app for researching public AI-friendly cash opportunities through source receipts and explicit review decisions. Built on 2026-09-30 for the DEV × Sanity Path Two challenge. It contains public-source examples only. The [published Path Two submission](https://dev.to/di_wang_3516db206ab336792/proof-desk-receipts-before-rewards-3m7n) documents the build and evidence.
 
 The [inspectable application source](source/) is expanded in this repository. The original [source ZIP](proof-desk-source.zip) is retained for one-file download. The [Studio review](evidence/cloud-review-state-version.png), [draft-to-review event](evidence/cloud-review-studio.png) and [matching public history](evidence/public-review-history.png) are captured as separate evidence; these show a review transition, not an award or payment.
 
@@ -77,4 +77,4 @@ No account registration, application submission, external contact, trading or pr
 
 ## Attribution
 
-Original application code was developed with Codex. Frameworks: Next.js/React and the official Sanity client/Studio. Public rule sources are linked on every receipt. General concepts of Source → Eligibility → Offer → Outcome informed the design; no existing private implementation or protocol key was copied. See `docs/CONTEST_CHECKLIST.md` and the unsubmitted English article draft.
+Original application code was developed with Codex. Frameworks: Next.js/React and the official Sanity client/Studio. Public rule sources are linked on every receipt. General concepts of Source → Eligibility → Offer → Outcome informed the design; no existing private implementation or protocol key was copied. See `docs/CONTEST_CHECKLIST.md` and the [published English submission](https://dev.to/di_wang_3516db206ab336792/proof-desk-receipts-before-rewards-3m7n).
